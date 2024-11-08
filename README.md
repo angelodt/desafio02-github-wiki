@@ -1,3 +1,6 @@
+## Projeto para fins de estudo REACT: 
+### Objetivo fazer uma busca de projetos em repositórios do github informando o <username/reponame> e lista-los na página com a possibilidade de abrir a página do repositório e remove-lo da lista.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
